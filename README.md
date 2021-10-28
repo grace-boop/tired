@@ -1,6 +1,6 @@
 # Bar Chart Race
 
-https://observablehq.com/@d3/bar-chart-race@3058
+https://grace-boop.github.io/tired/
 
 View this notebook in your browser by running a web server in this folder. For
 example:
