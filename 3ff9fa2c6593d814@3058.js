@@ -204,7 +204,7 @@ function ticker(svg) {
 }
 )});
   main.variable(observer("formatDate")).define("formatDate", ["d3"], function(d3){return(
-d3.utcFormat("%Y")
+d3.utcFormat("%Y-%m-%d")
 )});
   main.variable(observer("color")).define("color", ["d3","data"], function(d3,data)
 {
